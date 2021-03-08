@@ -1,0 +1,77 @@
+
+
+
+.creatorimage{
+	display: block;
+	margin-left:auto;
+	 margin-right:auto;
+	 width: 50%;
+	 padding-right: 40;
+	 
+}
+
+.links{
+	font-family: "Century Gothic";
+	font-size: 6em;
+	text-align: center;
+	box-shadow: 4px 4px 5px #888888;
+	margin:10%
+}
+
+body{
+	background-color:##000000;
+	background-image: url(http://coolofficeinteriors.com/wp-content/uploads/2015/06/background2.jpg);
+		background-size: cover no-repeat;
+		background-position: cover;
+}
+p{
+	font-family: "Century Gothic";
+	font-size: 3em;
+	font-weight: bolder;
+	border-color: black;
+	text-align: center;
+
+}
+h1{
+	font-family: "Century Gothic";
+	font-size: 5em;
+	font-weight: bolder;
+	border-bottom: 2px solid transparent;
+	text-align: center;
+	box-shadow: 4px 4px 5px #888888;
+	margin: 50px;
+}
+
+img{
+	display: block;
+	margin-left: auto;
+	margin-right:auto;
+	width:50%;
+}
+img{
+	width:1050px;
+	height: 900px;
+	margin:10px;
+	transition: all 1s;
+	border: 10px bold #000000;
+	border-radius: 50%;
+	justify-content: center;
+}
+
+img:hover {
+	transform:scale(1.1);
+}
+.creator{
+	font-family: "Century Gothic";
+	font-size: 3em;
+	border-bottom: 2px solid transparent;
+	border-left: 2px solid transparent;
+	border-top: 2px solid; transparent;
+	width: 400px;
+	text-align: center;
+	box-shadow: 4px 4px 5px #888888;
+	margin: 0px;
+	display:flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}

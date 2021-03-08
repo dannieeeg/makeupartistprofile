@@ -1,0 +1,44 @@
+body{
+	background-color:##000000;
+	background-image: url(http://coolofficeinteriors.com/wp-content/uploads/2015/06/background2.jpg);
+		background-size: cover;
+		background-position: center;
+}
+img{
+	width:600px;
+	height: 550px;
+	margin:10px;
+	transition: all 1s;
+	border: 10px inset transparent;
+	border-radius: 20%;
+	justify-content: center;
+
+
+}
+
+img:hover {
+	transform:scale(1.1);
+}
+
+.links{
+
+	font-family: "Century Gothic";
+	font-size: 5em;
+	text-align: center;
+	box-shadow: 4px 4px 5px #888888;
+	margin:10%
+}
+.xtreme-beauty,.special-fx{
+	font-family: "Century Gothic";
+	font-size: 8em;
+	border-bottom: 2px solid black;
+	border-top: 2px solid black;
+	width: 400px;
+	text-align: center;
+	margin: 0px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+	justify-content: center;
+}
